@@ -1,18 +1,19 @@
 # co2a74b21bbb7fef31887674b
 
 Quick start:
+This project is an Airbnb clone built with React and Webpack.
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+To get started, clone the repository and install dependencies:
+
+git clone <repository-url>
+cd Airbnbclone
+npm install
+
+
+Build the project:npm run build
+
 
 ## Development
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
-```
-Run npx serve . for the page to load on the browser
-```
-
+Run Webpack in watch-mode to continually compile the JavaScript as you work:npx serve .
 

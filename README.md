@@ -1,4 +1,4 @@
-# co2a74b21bbb7fef31887674b
+
 
 Quick start:
 This project is an Airbnb clone built with React and Webpack.
